@@ -1,0 +1,11 @@
+node_modules/
+dist/
+cache/
+public/data/*.json
+!public/data/.gitkeep
+.env
+.env.*
+__pycache__/
+*.pyc
+.DS_Store
+.claude/
